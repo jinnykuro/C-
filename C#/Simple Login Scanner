@@ -1,0 +1,29 @@
+using System;
+using System.Linq;
+using System.Collections.Generic;
+
+namespace HelloWold;
+
+public static class Program
+{
+    public static void Main(String[] args)
+    {
+        Console.Write("Username: ");
+        String user = Console.ReadLine();
+        Console.Write("Password: ");
+        String pass = Console.ReadLine();
+        String user1 = "noob123";
+        String pass1 = "123noob";
+        if (user == user1 && pass == pass1)
+        {
+            Console.WriteLine("username: " + user1);
+            Console.WriteLine("password: " + pass1);
+        }
+        else
+        {
+            Console.WriteLine("Invalid Pass or User");
+        }
+
+
+    }
+}
