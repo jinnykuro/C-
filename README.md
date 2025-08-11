@@ -1,2 +1,0 @@
-# C-
-Coding Practices
