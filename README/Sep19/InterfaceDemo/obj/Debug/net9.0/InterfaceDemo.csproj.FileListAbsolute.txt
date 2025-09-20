@@ -1,0 +1,14 @@
+H:\Sep19\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+H:\Sep19\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.AssemblyInfoInputs.cache
+H:\Sep19\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.AssemblyInfo.cs
+H:\Sep19\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+H:\Sep19\InterfaceDemo\bin\Debug\net9.0\InterfaceDemo.exe
+H:\Sep19\InterfaceDemo\bin\Debug\net9.0\InterfaceDemo.deps.json
+H:\Sep19\InterfaceDemo\bin\Debug\net9.0\InterfaceDemo.runtimeconfig.json
+H:\Sep19\InterfaceDemo\bin\Debug\net9.0\InterfaceDemo.dll
+H:\Sep19\InterfaceDemo\bin\Debug\net9.0\InterfaceDemo.pdb
+H:\Sep19\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.dll
+H:\Sep19\InterfaceDemo\obj\Debug\net9.0\refint\InterfaceDemo.dll
+H:\Sep19\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.pdb
+H:\Sep19\InterfaceDemo\obj\Debug\net9.0\InterfaceDemo.genruntimeconfig.cache
+H:\Sep19\InterfaceDemo\obj\Debug\net9.0\ref\InterfaceDemo.dll
